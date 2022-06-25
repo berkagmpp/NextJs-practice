@@ -1,4 +1,4 @@
-// this is for request that reach 'our-domain.com/news/something-important'
+// this is for request that reaches 'our-domain.com/news/<dynamic path>'
 
 const DetailPage = () => {
     return (
